@@ -8,10 +8,6 @@ package parity
 //
 // Beispiele siehe Tests.
 func SetParityBit(b byte) byte {
-	// Hinweis:
-	// Verwenden Sie die Funktion `CheckParityBit`, um zu prüfen,
-	// ob die Anzahl der Einsen gerade ist.
-
 	// TODO
 	return 0
 }
