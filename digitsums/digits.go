@@ -4,6 +4,6 @@ package digitsums
 // und liefert eine Liste der Ziffern dieser Zahl.
 func Digits(n int) []int {
 	result := []int{}
-	// TODO
+	
 	return result
 }
